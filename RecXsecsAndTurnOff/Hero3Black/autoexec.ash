@@ -2,7 +2,7 @@ sleep 2
 t app appmode video
 sleep 1
 t app button shutter PR
-sleep X
+sleep 120
 t app button shutter PR
 sleep 3
 t app button power P
